@@ -1,0 +1,39 @@
+{
+  "short_name": "Leon",
+  "name": "Leon Website",
+  "icons": [
+    {
+      "src": "images/128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "images/512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+
+  "screenshots": [
+    {
+     "src": "images/full.png",
+      "sizes": "1898x923",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "Wonder Widgets"
+    },
+    {
+      "src": "images/320.png",
+       "sizes": "320x320",
+       "type": "image/png",
+       "label": "Wonder Widgets"
+     }
+  ],
+  
+
+  "start_url": "index.html",
+  "display": "fullscreen",
+  "theme_color": "#000000",
+  "background_color": "#ffffff",
+  "orientation": "portrait"
+}
